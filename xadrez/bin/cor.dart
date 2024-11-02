@@ -1,0 +1,4 @@
+enum Cor {
+  branco,
+  preto;
+}
